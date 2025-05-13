@@ -1,0 +1,7 @@
+pyaudio
+sounddevice
+soundfile
+numpy
+requests
+SpeechRecognition
+pocketsphinx
