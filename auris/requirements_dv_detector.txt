@@ -5,3 +5,6 @@ numpy
 requests
 SpeechRecognition
 pocketsphinx
+pvporcupine
+pvrecorder
+
