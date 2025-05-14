@@ -28,5 +28,5 @@ def upload_compressed_audio(local_wav_path: str, audio_id: str):
 
 if __name__ == "__main__":
     wav_file = "output.wav"
-    clip_id = "clip003"
+    clip_id = "clip001"
     upload_compressed_audio(wav_file, clip_id)
